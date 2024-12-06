@@ -26,14 +26,16 @@
 
 ## 国内可用的 ChatGPT 中文版 推荐：
 
-- [www.yixiaai.com](https://www.yixiaai.com/)：稳定运营近两年的 **ChatGPT中文版**，支持 GPT-4、4o 及 o1，并提供 MJ 绘画功能，适用于手机和电脑。
-- [chat.lify.vip](https://chat.lify.vip/)：集成多种模型（包括最新的 GPT-4o、o1）的**ChatGPT镜像网站**，提供行业专属 AI 助手、知识库、思维导图等功能，兼容手机和电脑。
+- [www.yixiaai.com](https://www.yixiaai.com/)：稳定运营近两年的 **ChatGPT中文版**，支持 GPT-4、4o 及 o1，并提供 MJ 绘画功能，支持手机和电脑。
+- [chat.lify.vip](https://chat.lify.vip/)：集成多种模型（包括最新的 GPT-4o、o1）的**ChatGPT镜像网站**，提供行业专属 AI 助手、知识库、思维导图等功能，支持手机和电脑。
 - [yixiaai.cn](https://yixiaai.cn/)：**ChatGPT工具**导航网站，汇聚上百种 AI 工具，掌握前沿 AI 知识和资讯。
 - [guide1.lanjing.ai](https://guide1.lanjing.ai/)：运营一年多，支持 GPT-4、4o，并提供 AI 绘画功能（支持 Midjourney 和 Dall·E）。
 - [ai.lansejingyu.com](https://ai.lansejingyu.com/)：简单易用，支持 GPT-4 和 4o，适合新手用户快速上手。
 - [lanjing.ai](https://lanjing.ai/)：免费使用 **ChatGPT**，支持 GPT-4 和 4o。
 
-这些 **ChatGPT 中文版**镜像网站为国内用户提供了多种选择，您可以根据个人需求和偏好，选择适合自己的进行使用，满足学习、工作和生活的需求。
+这些 **ChatGPT 中文版**镜像网站为国内用户提供了多种选择，您可以根据个人需求和偏好
+
+选择适合自己的进行使用，满足学习、工作和生活的需求。
 
 ---
 
