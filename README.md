@@ -1,7 +1,7 @@
-# ChatGPT 中文版：国内免费推荐（支持 GPT-4 和 4o、o1）【5月持续更新】
+# ChatGPT 中文版：国内免费推荐（支持 GPT-4 和 4o、o1）【6月持续更新】
 
 > 深入介绍 **ChatGPT 中文版** 在国内的使用方法，推荐多个**无需翻墙的 ChatGPT中文版镜像网站**。  
-> 更新日期：2025/05/10   
+> 更新日期：2025/06/05   
 
 本项目为您提供全面的 **ChatGPT 中文版使用指南**，收集了国内可用的 **ChatGPT 镜像网站**以及 **官方使用教程**
 
@@ -11,7 +11,7 @@
 
 ## 为什么选择 ChatGPT 中文版？
 
-**ChatGPT 中文版** 是基于 OpenAI 开发的 ChatGPT 模型的中文优化版本，为国内用户提供更流畅和精准的中文对话体验。
+[**ChatGPT 中文版**](https://chat.lanjing.pro) 是基于 OpenAI 开发的 ChatGPT 模型的中文优化版本，为国内用户提供更流畅和精准的中文对话体验。
 
 保持跟官网一样的使用体验，还能解决国内用户无法访问官网的问题，**无需翻墙**即可使用！
 
@@ -26,12 +26,12 @@
 
 ## 国内可用的 ChatGPT 中文版 推荐：
 
-- [chat.yixiaai.com](https://chat.yixiaai.com/)：稳定运营近两年的 **ChatGPT中文版**，支持 GPT-4、4o 及 o1，并提供 MJ 绘画功能，支持手机和电脑。
-- [chat.lify.vip](https://www.yixiaai.com/)：集成多种模型（包括最新的 GPT-4o、o1）的**ChatGPT镜像网站**，提供行业专属 AI 助手、知识库、思维导图等功能，支持手机和电脑。
+- [chat.yixiaai.com](https://chat.lanjing.pro/)：稳定运营近两年的 **ChatGPT中文版**，支持 GPT-4、4o 及 o1，并提供 MJ 绘画功能，支持手机和电脑。
+- [chat.lify.vip](https://xsimplechat.com/)：集成多种模型（包括最新的 GPT-4o、o1）的**ChatGPT镜像网站**，提供行业专属 AI 助手、知识库、思维导图等功能，支持手机和电脑。
 - [yixiaai.cn](https://yixiaai.cn/)：**ChatGPT工具**导航网站，汇聚上百种 AI 工具，掌握前沿 AI 知识和资讯。
-- [guide1.lanjing.ai](https://guide1.lanjing.ai/)：运营一年多，支持 GPT-4、4o，并提供 AI 绘画功能（支持 Midjourney 和 Dall·E）。
+- [chat.lanjingai.org](https://chat.lanjingai.org/)：运营一年多，支持 GPT-4、4o，并提供 AI 绘画功能（支持 Midjourney 和 Dall·E）。
 - [ai.lansejingyu.com](https://ai.lansejingyu.com/)：简单易用，支持 GPT-4 和 4o，适合新手用户快速上手。
-- [lanjing.ai](https://lanjing.ai/)：免费使用 **ChatGPT**，支持 GPT-4 和 4o。
+- [lanjing.ai](https://lanjing.pro/)：免费使用 **ChatGPT**，支持 GPT-4 和 4o。
 
 这些 **ChatGPT 中文版**镜像网站为国内用户提供了多种选择，您可以根据个人需求和偏好
 
@@ -58,7 +58,7 @@
 
 要快速开始使用 ChatGPT 中文版，请按照以下步骤：
 
-1. **选择网站**：选定一个适合您的 ChatGPT 中文版网站，例如 **[chat.yixiaai.com](https://chat.yixiaai.com/)** 或 **[chat.lify.vip](https://www.yixiaai.com/)**。
+1. **选择网站**：选定一个适合您的 ChatGPT 中文版网站，例如 **[chat.yixiaai.com](https://chat.lanjing.pro/)** 或 **[chat.lify.vip](https://xsimplechat.com/)**。
 2. **登录使用**：进入主界面，使用微信扫码登录。
 3. **开始对话**：在对话框中输入问题或任务，ChatGPT 将生成回复。
 4. **探索功能**：平台提供 AI 助手、文件处理、绘画等功能，根据需求进行尝试。
